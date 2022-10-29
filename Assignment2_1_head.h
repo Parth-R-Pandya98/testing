@@ -19,7 +19,7 @@ Side effect: N/A
 */
 void display(int size, double s1_result[][10])
 {
-	cout<< "Size :"<< size<<"\t\t\t Time in second(s)"<< endl;
+
 	cout<< "\n";
 
 	// Execution time for 10 array's random time, sorted time, inverse time
